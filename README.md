@@ -11,3 +11,8 @@ This Power BI project analyzes employee presence data over a three-month period,
 - **Power BI Report:** The main report file is named `HR Data PowerBI.pbix`. This file contains the visualizations, dashboards, and interactive elements for exploring the data.
 
 - **Data Cleaning and Transformation:** The data cleaning and transformation steps are documented in the Power BI report. This includes handling missing values, creating calculated columns, and aggregating data for analysis.
+
+## PowerBI Visualizations
+
+- Explore the interactive visualizations on PowerBI:
+- [https://app.powerbi.com/groups/me/reports/55372e6c-568e-463e-b633-fe00e4ef32fc/ReportSection?experience=power-bi]
